@@ -1,4 +1,4 @@
-# Python 배우기 Wth 백준
+# Python 배우기 With 백준
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=#3776AB"/> 
