@@ -6,8 +6,9 @@
 
 ![Manga ai](https://user-images.githubusercontent.com/69490709/231346553-187039cb-2414-4e56-9c91-a5822a37b2b3.png)
 
-
 BAEKJOON Group : [MANGA- AI](https://www.acmicpc.net/group/16072)
+<br />
+Copyright ⓒ 2023 MANGA - AI
 
 
 
