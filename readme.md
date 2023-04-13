@@ -50,6 +50,7 @@
 
 ## Copyright
 Copyright ⓒ 2023 MANGA - AI
+<br>
 BAEKJOON Group : [MANGA- AI](https://www.acmicpc.net/group/16072) 
 
 
