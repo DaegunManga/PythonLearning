@@ -6,11 +6,42 @@
 
 ![Manga ai](https://user-images.githubusercontent.com/69490709/231346553-187039cb-2414-4e56-9c91-a5822a37b2b3.png)
 
-BAEKJOON Group : [MANGA- AI](https://www.acmicpc.net/group/16072)
+
 
 <br />
 
+
+## Index
+1. [Tasks](##Tasks)
+<br /> &nbsp;  1-1. [4.14](###4.14)
+2. [Source](##Source) 
+3. [Copyright](##Copyright) 
+
+
+
+
+
+## Tasks
+### 4.14
+- question
+- - [사칙연산 ( 10869 )](https://www.acmicpc.net/problem/10869)
+- - [시험성적 ( 9498 )](https://www.acmicpc.net/problem/9498)
+- - [오븐시계 ( 2525 )](https://www.acmicpc.net/problem/2525)
+- - [구구단 ( 2739 )](https://www.acmicpc.net/problem/2739)
+- - [더하기 사이클 ( 1110 )](https://www.acmicpc.net/problem/1110)
+- - [최소, 최대 ( 10818 )](https://www.acmicpc.net/problem/10818)
+- - [평균은 넘겠지 ( 4344 )](https://www.acmicpc.net/problem/4344)
+
+- [ ] 완료
+
+## Source
+[파파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 -  나도코딩](https://youtu.be/kWiCuklohdY )
+
+[파이썬 코딩 무료 강의 (활용편5) - 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 - 나도코딩](https://youtu.be/PjhlUzp_cU0 )
+
+## Copyright
 Copyright ⓒ 2023 MANGA - AI
+BAEKJOON Group : [MANGA- AI](https://www.acmicpc.net/group/16072) 
 
 
 
