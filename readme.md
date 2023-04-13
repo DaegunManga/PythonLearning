@@ -12,10 +12,10 @@
 
 
 ## Index
-1. [Tasks](##Tasks)
-<br /> &nbsp;  1-1. [4.14](###4.14)
-2. [Source](##Source) 
-3. [Copyright](##Copyright) 
+1. [Tasks](#tasks)
+<br /> &nbsp;  1-1. 4.14
+2. [Source](#source) 
+3. [Copyright](#copyright) 
 
 
 
@@ -32,10 +32,19 @@
 - - [최소, 최대 ( 10818 )](https://www.acmicpc.net/problem/10818)
 - - [평균은 넘겠지 ( 4344 )](https://www.acmicpc.net/problem/4344)
 
-- [ ] 완료
+<br>
+
+- achievement
+- - [x] 이도원 (7/7)
+- - [ ] 이주호 (5/7)
+- - [ ] 권민규 (0/7)
+- - [ ] 임창빈 (0/7)
+- - [ ] 임승모 (0/7)
+- - [ ] 김도영 (0/7)
+- - [ ] 박승한 (0/7)
 
 ## Source
-[파파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 -  나도코딩](https://youtu.be/kWiCuklohdY )
+[파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 -  나도코딩](https://youtu.be/kWiCuklohdY )
 
 [파이썬 코딩 무료 강의 (활용편5) - 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 - 나도코딩](https://youtu.be/PjhlUzp_cU0 )
 
